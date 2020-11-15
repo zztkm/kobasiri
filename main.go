@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	name     = "gopheremon"
+	name     = "kobasiri"
 	version  = "0.1.0"
 	revision = "HEAD"
 )
